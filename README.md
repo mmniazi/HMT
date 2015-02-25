@@ -4,4 +4,4 @@ This is a GUI based thermal analysis software for calculation of optimum distanc
 
 The Software is developed in JavaFx and requires HtmlUnit >= 2.15 for compiling
 
-![Alt text](https://github.com/muhammadmohsin1994/HMT/hmt.png "HMT")
+![Alt text](https://github.com/muhammadmohsin1994/HMT/lep.png "HMT")
